@@ -16,3 +16,7 @@ Open `Frontend/index.html` file in Chrome or use VS Code Live Server.
 
 ## Author
 Bhuvana Sai Maha Lakshmi Pantham
+
+## Team name
+Dynamic Developers
+
